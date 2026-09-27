@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="PriceCheck, price label-free checks and serve LLM answers at a stated risk" />
+  <img src="assets/banner.png" width="100%" alt="PriceCheck, risk-controlled selective LLM answering by pricing label-free checks" />
 </p>
 
 <div align="center">
-
-# PriceCheck
-
-### Price label-free checks, serve LLM answers at a stated risk
-
-<em>Risk-Controlled Selective LLM Answering by Pricing Label-Free Checks</em>
 
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
