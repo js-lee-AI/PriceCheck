@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below. Dongyub Jude Lee and Jungseob Lee contributed equally."
+title: "PriceCheck: code for Risk-Controlled Selective LLM Answering by Pricing Label-Free Checks"
+type: software
+authors:
+  - family-names: Lee
+    given-names: "Dongyub Jude"
+  - family-names: Lee
+    given-names: Jungseob
+  - family-names: Park
+    given-names: Chanjun
+  - family-names: Moon
+    given-names: Hyeonseok
+  - family-names: Lim
+    given-names: Heuiseok
+repository-code: "https://github.com/js-lee-AI/PriceCheck"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-28"
+keywords:
+  - "selective prediction"
+  - "risk control"
+  - "LLM verification"
+  - "Learn then Test"
+  - "self-consistency"
+preferred-citation:
+  type: article
+  title: "Risk-Controlled Selective LLM Answering by Pricing Label-Free Checks"
+  authors:
+    - family-names: Lee
+      given-names: "Dongyub Jude"
+    - family-names: Lee
+      given-names: Jungseob
+    - family-names: Park
+      given-names: Chanjun
+    - family-names: Moon
+      given-names: Hyeonseok
+    - family-names: Lim
+      given-names: Heuiseok
+  year: 2026
