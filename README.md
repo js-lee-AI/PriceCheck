@@ -323,4 +323,4 @@ Code is MIT, see [LICENSE](LICENSE). The paper is CC BY 4.0.
 
 ## Acknowledgments
 
-PriceCheck certifies with the finite-family test of [Learn then Test](https://arxiv.org/abs/2110.01052), which is cited rather than re-claimed. Its re-solve vote follows [self-consistency](https://arxiv.org/abs/2203.11171), its backward probe descends from [self-verification](https://doi.org/10.18653/v1/2023.findings-emnlp.167), and the answers are to problems of [MATH](https://arxiv.org/abs/2103.03874).
+PriceCheck certifies with the finite-family test of [Learn then Test](https://arxiv.org/abs/2110.01052). Its re-solve vote follows [self-consistency](https://arxiv.org/abs/2203.11171), its backward probe descends from [self-verification](https://doi.org/10.18653/v1/2023.findings-emnlp.167), and the answers are to problems of [MATH](https://arxiv.org/abs/2103.03874).
